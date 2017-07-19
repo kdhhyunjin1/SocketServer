@@ -1,2 +1,2 @@
-# SocketServe
+# SocketServer
 Kwon Donghyung
